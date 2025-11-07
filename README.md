@@ -2,8 +2,7 @@
 
 **Welcome to my GitHub!**  
 
-🎯 **Developer | Problem Solver | UI Enthusiast**
-
+🎯 **Building Intuitive UIs | Optimizing Code | Solving Complex Problems**
 ---
 
 ## 🌐 Connect With Me
