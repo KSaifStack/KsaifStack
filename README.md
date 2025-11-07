@@ -12,7 +12,9 @@
 
 ###
 
-<p align="left">Hi, I’m Kareem, a passionate developer who enjoys building clean, efficient, and user-friendly software. I enjoy learning new technologies, solving complex problems, and bringing ideas to life through code.<br><br>💻 Focus:  Java, Python, C++, JavaFX, and full-stack development<br><br>🚀 Currently working on: PlanForge</p>
+<p align="left">Hi, I’m [Your Name] — a developer who enjoys writing clean code, building intuitive UIs, and constantly learning new things.
+🔧 Java | C++ | JavaFX | UI Design
+📚 Always improving. Always building.</p>
 
 ###
 
