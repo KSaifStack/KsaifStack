@@ -4,15 +4,6 @@
 
 ###
 ###
-
-<p align="left">Hi, I’m Kareem — a developer who enjoys writing clean code, building intuitive UIs, and constantly learning new things.
-🔧 Java | C++ | JavaFX | UI Design
-📚 Always improving. Always building.</p>
-
-###
-
-<h3 align="left">🛠 Language and tools</h3>
-
 ###
 
 <div align="left">
