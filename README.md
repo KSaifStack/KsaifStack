@@ -2,7 +2,7 @@
 
 **Welcome to my GitHub!**  
 
-🎯 **Building Intuitive UIs | Optimizing Code | Solving Complex Problems**
+🎯 Building Intuitive UIs | Optimizing Code | Solving Complex Problems
 ---
 
 ## 🌐 Connect With Me
