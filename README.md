@@ -6,19 +6,6 @@
 
 ---
 
-## 🌐 Connect With Me
-<div align="center">
-  <a href="https://www.linkedin.com/in/kareemsaif/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" height="35" alt="LinkedIn" />
-  </a>
-  <a href="https://github.com/KSaifStack" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" height="35" alt="GitHub" />
-  </a>
-  
-</div>
-
----
-
 ## 🚀 About Me
 - 💻 **Currently building:** **PlanForge** – a dynamic task management and productivity tool  
 - 🌱 **Learning:** C++ UI frameworks, data structures, and performance optimization  
