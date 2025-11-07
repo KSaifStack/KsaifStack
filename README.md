@@ -3,13 +3,6 @@
 </div>
 
 ###
-
-<h1 align="center">hey there 👋</h1>
-
-###
-
-<h3 align="left">👩‍💻  About Me</h3>
-
 ###
 
 <p align="left">Hi, I’m Kareem — a developer who enjoys writing clean code, building intuitive UIs, and constantly learning new things.
