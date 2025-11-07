@@ -1,6 +1,6 @@
 # 👋 Hey there, I'm Kareem Saif
 
-Welcome to my GitHub where I build things that *look good, feel smooth, and work fast.*  
+Welcome to my GitHub!*  
 
 🎯 **Developer | Problem Solver | UI Enthusiast**
 
