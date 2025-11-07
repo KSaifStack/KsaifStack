@@ -29,16 +29,19 @@
 
 ---
 
-## 🛠️ Skills
-**Languages:** Python, Java, C++, Lua, CSS  
-**Frameworks / Libraries:** JavaFX, Tkinter  
-**Tools:** Git, Linux, VS Code, GitHub  
-**Concepts & Practices:** OOP, Data Structures, Algorithms, UI/UX Design  
-**Certifications:** Google IT Support Professional  
-**Hardware:** Custom PC assembly, OS installation, troubleshooting  
-**Soft Skills:** Problem-Solving, Troubleshooting, Communication, Teamwork, Multitasking  
+## 🛠️ Languages & Tools
+<div align="center">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="Java" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="40" alt="C++" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="Python" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/lua/lua-original.svg" height="40" alt="Lua" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="CSS3" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="Git" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="40" alt="Linux" />
+</div>
 
 ---
+
 
 > “**Code is like art — simple, intentional, and expressive.**”  
 
