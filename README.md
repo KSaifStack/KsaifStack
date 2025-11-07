@@ -12,7 +12,7 @@
 
 ###
 
-<p align="left">Hi, I’m [Your Name] — a developer who enjoys writing clean code, building intuitive UIs, and constantly learning new things.
+<p align="left">Hi, I’m Kareem — a developer who enjoys writing clean code, building intuitive UIs, and constantly learning new things.
 🔧 Java | C++ | JavaFX | UI Design
 📚 Always improving. Always building.</p>
 
