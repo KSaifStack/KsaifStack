@@ -38,18 +38,6 @@
 
 ---
 
-## 📈 GitHub Stats
-
-<div align="center">
-
-![Kareem's GitHub Stats](https://github-readme-stats.vercel.app/api?username=kareemsaif&show_icons=true&theme=tokyonight&hide_border=true&count_private=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=kareemsaif&layout=compact&theme=tokyonight&hide_border=true)
-
-</div>
-
----
-
 ## 🚀 About Me
 
 - 💻 Currently working on: **JavaFX To-Do Application**
