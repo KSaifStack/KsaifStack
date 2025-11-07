@@ -42,9 +42,9 @@
 
 ## 🚀 About Me
 
-- 💻 Currently working on: **JavaFX To-Do Application**
-- 🌱 Learning: **C++ templates, data structures, and performance optimization**
-- 🧠 Interested in: **UI/UX design and software architecture**
+- 💻 Currently working on: **PlanForge**
+- 🌱 Learning: **C++ Ui Frameworks, data structures, and performance optimization**
+- 🧠 Interested in: **FullStack Development**
 - ⚡ Fun fact: *I love writing pixel-perfect UIs with JavaFX by hand.*
 
 ---
