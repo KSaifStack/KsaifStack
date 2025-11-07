@@ -1,5 +1,5 @@
 <div align="center">
-  <img height="350" src="https://user-images.githubusercontent.com/74038190/213866269-5d00981c-7c98-46d7-8a8e-16f462f15227.gif"  />
+  <img height="150" src="https://user-images.githubusercontent.com/74038190/213866269-5d00981c-7c98-46d7-8a8e-16f462f15227.gif"  />
 </div>
 
 ###
@@ -9,21 +9,6 @@
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
   </a>
 </div>
-
-###
-
-
-###
-
-<h1 align="center">hey there 👋</h1>
-
-###
-
-<h3 align="left">👩‍💻  About Me</h3>
-
-###
-
-<p align="left">Hi, I’m Kareem, a passionate developer who enjoys building clean, efficient, and user-friendly software. I enjoy learning new technologies, solving complex problems, and bringing ideas to life through code.<br><br>💻 Focus:  Java, Python, C++, JavaFX, and full-stack development<br><br>🚀 Currently working on: PlanForge</p>
 
 ###
 
