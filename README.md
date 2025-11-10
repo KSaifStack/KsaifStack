@@ -7,7 +7,7 @@
 ---
 
 ## 🚀 About Me
-- 💻 **Currently building:** C++ Point-of-Sale (POS) / Register System Application
+- 💻 **Currently building:** C++ / Qt Point-of-Sale (POS) Register System
 - 💪 **Currently improving:** **PlanForge** – a dynamic task management and productivity tool
 - 🌱 **Learning:** C++ UI frameworks, data structures, and performance optimization  
 - 🧠 **Passionate about:** Full-Stack Development and crafting immersive, intuitive UIs  
