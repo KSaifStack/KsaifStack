@@ -1,7 +1,9 @@
 # 👋 Hi, I'm Kareem Saif
 
 **Welcome to my GitHub — where code meets creativity!**  
+
 🎯 **Software Engineer | Full-Stack Developer | UI & UX Creator**
+
 ---
 
 ## 🚀 About Me
@@ -28,5 +30,3 @@
 
 
 > “**Code is like art — simple, intentional, and expressive.**”  
-
-
