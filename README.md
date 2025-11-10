@@ -11,7 +11,7 @@
 - 💪 **Currently improving:** **PlanForge** – a dynamic task management and productivity tool
 - 🌱 **Learning:** C++ UI frameworks, data structures, and performance optimization  
 - 🧠 **Passionate about:** Full-Stack Development and crafting immersive, intuitive UIs  
-- ⚡ **Fun fact:** I obsess over **pixel-perfect JavaFX layouts**  
+- ⚡ **Fun fact:** I obsess over **pixel-perfect layouts**  
 
 ---
 
