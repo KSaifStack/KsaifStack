@@ -1,4 +1,5 @@
 # 👋 Hi, I'm Kareem Saif
+![](https://komarev.com/ghpvc/?username=KSaifStack)
 
 **Welcome to my GitHub — where code meets creativity!**  
 
