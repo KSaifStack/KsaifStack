@@ -1,6 +1,4 @@
 # 👋 Hi, I'm Kareem Saif
-![](https://komarev.com/ghpvc/?username=KSaifStack)
-
 **Welcome to my GitHub — where code meets creativity!**  
 
 🎯 **Software Engineer | Full-Stack Developer | UI & UX Creator**
@@ -29,4 +27,9 @@
 ---
 
 
-> “**Code is like art — simple, intentional, and expressive.**”  
+> “**Code is like art — simple, intentional, and expressive.**”
+> 
+> 
+> 
+> ![](https://komarev.com/ghpvc/?username=KSaifStack)
+ 
