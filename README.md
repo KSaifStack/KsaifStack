@@ -1,35 +1,41 @@
-# 👋 Hi, I'm Kareem Saif
-**Welcome to my GitHub — where code meets creativity!**  
+# Kareem Saif
 
-🎯 **Software Engineer | Full-Stack Developer | UI & UX Creator**
+**Computer Science Student | Software Engineer | Full-Stack Developer**
 
 ---
 
-# About Me
-- 💻 **Currently building:** C++ / Qt Point-of-Sale (POS) Register System
-- 💪 **Currently improving:** **PlanForge** – a dynamic task management and productivity tool          
-- 🌱 **Learning:** C++ UI frameworks, data structures, and performance optimization  
-- 🧠 **Passionate about:** Full-Stack Development and crafting immersive, intuitive UIs  
-- ⚡ **Fun fact:** I obsess over **pixel-perfect layouts**  
+## Quick Facts
+
+-  Studying Computer Science with a concentration in Software Engineering.
+-  Currently building a C++ / Qt Point-of-Sale (POS) Register System.
+-  Actively developing PlanForge, a dynamic task management platform.
+-  Learning advanced C++ UI frameworks, data structures, and system design patterns.
+-  Passionate about creating intuitive, user-centered applications.
+
 ---
 
-## 🛠️ Languages & Tools
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="Java" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="40" alt="C++" />
+## Technical Skills
+
+**Languages**  
+Python • Java • C++ • Lua • CSS • JavaScript • HTML
+
+**Tools & Frameworks**  
+Git • Linux • JavaFX • Tinker • File I/O • API Integration
+
+---
+
+<div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="Python" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/lua/lua-original.svg" height="40" alt="Lua" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="Java" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="40" alt="C++" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="JavaScript" />
+  <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="CSS3" />
+  <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="Git" />
+  <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="40" alt="Linux" />
 </div>
-
----
-
-
-> “**Code is like art — simple, intentional, and expressive.**”
-> 
-> 
-> 
-> ![](https://komarev.com/ghpvc/?username=KSaifStack)
- 
