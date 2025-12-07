@@ -17,7 +17,7 @@
 ## Technical Skills
 
 **Languages**  
-Python • Java • C++ • Lua • CSS • JavaScript • HTML
+Python • Java • C++ • Lua • CSS •  HTML
 
 **Tools & Frameworks**  
 Git • Linux • JavaFX • Tinker • File I/O • API Integration
@@ -31,7 +31,7 @@ Git • Linux • JavaFX • Tinker • File I/O • API Integration
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="40" alt="C++" />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="JavaScript" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/lua/lua-original.svg" height="40" alt="Lua" />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="CSS3" />
   <img width="12" />
