@@ -6,7 +6,7 @@ I'm a computer science student and software engineer with a passion for building
 
 My philosophy is simple: stay curious, and build things that matter. I enjoy tackling challenging problems, whether it's architecting full-stack systems or optimizing performance.
 
-Outside of coding, I'm involved in community leadership, volunteering, and I'm obsessed with pixel-perfect UI design.
+Outside of coding, I'm involved in community leadership, volunteering, and I'm obsessed with pixel-perfect UIs.
 
 ---
 
