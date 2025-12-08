@@ -48,4 +48,4 @@ Git • Linux • JavaFX • Tinker • File I/O • API Integration
 
 ---
 
-📫 Reach me on [LinkedIn](https://www.linkedin.com/in/kareemsaif/) or [email](mailto:ksaifeldawlla@gmail.com)
+📫 Reach me on [LinkedIn](https://www.linkedin.com/in/kareemsaif/) !
