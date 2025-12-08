@@ -1,4 +1,5 @@
 # 👋 Hi there, I'm Kareem Saif
+[LinkedIn](https://www.linkedin.com/in/kareemsaif/)
 
 **Computer Science Student | Software Engineer | Full-Stack Developer**
 
@@ -47,5 +48,3 @@ Git • Linux • JavaFX • Tinker • File I/O • API Integration
 </div>
 
 ---
-
-📫 Reach me on [LinkedIn](https://www.linkedin.com/in/kareemsaif/) !
