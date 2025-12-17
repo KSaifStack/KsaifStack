@@ -15,7 +15,7 @@ Outside of coding, I'm involved in community leadership, volunteering, and I'm o
 
 - 🎓 Studying Computer Science with a concentration in Software Engineering.
 - 💻 Currently building a C++ / Qt Point-of-Sale (POS) Register System.
-- 🚀 Actively developing PlanForge, a dynamic task management platform.
+- 🚀 Actively developing DockTask, a dynamic task management platform.
 - 🧠 Learning advanced C++ UI frameworks, data structures, and system design patterns.
 - 🎯 Passionate about creating intuitive, user-centered applications.
 
