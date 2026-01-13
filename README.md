@@ -1,11 +1,5 @@
 # 👋 Hi there, I'm Kareem Saif
-[LinkedIn](https://www.linkedin.com/in/kareemsaif/)
-
-**Computer Science Student | Software Engineer | Full-Stack Developer**
-
-I'm a computer science student and software engineer with a passion for building intuitive, user-centered applications and helping others learn to code.
-
-My philosophy is simple: stay curious, and build things that matter. I enjoy tackling challenging problems, whether it's architecting full-stack systems or optimizing performance.
+I enjoy building full-stack applications and solving challenging problems!
 
 ---
 
@@ -15,14 +9,12 @@ My philosophy is simple: stay curious, and build things that matter. I enjoy tac
 - 💻 Currently building a C++ / Qt Point-of-Sale (POS) Register System.
 - 🚀 Actively developing DockTask, a dynamic task management platform.
 - 🧠 Learning advanced C++ UI frameworks, data structures, and system design patterns.
-- 🎯 Passionate about creating intuitive, user-centered applications.
-
 ---
 
 ## Technical Skills
 
 **Languages**  
-Python • Java • C++ • Lua • CSS • HTML
+Python • Java • C++ • JavaScript • Lua • CSS • HTML
 
 **Tools & Frameworks**  
 Git • Linux • JavaFX • Tinker • File I/O • API Integration
