@@ -1,23 +1,24 @@
 # 👋 Hi there, I'm Kareem Saif
-I enjoy building full-stack applications and solving challenging problems!
+
+Full-stack developer who enjoys building applications and solving challenging problems.
 
 ---
 
-## Quick Facts
+## 🚀 What I'm Working On
 
-- 🎓 Studying Computer Science with a concentration in Software Engineering.
-- 💻 Currently building a C++ / Qt Point-of-Sale (POS) Register System.
-- 🚀 Actively developing DockTask, a dynamic task management platform.
-- 🧠 Learning advanced C++ UI frameworks, data structures, and system design patterns.
+- 💻 **C++ / Qt POS System** – Building a modern Point-of-Sale register application
+- 🎯 **DockTask** – Dynamic task management platform for seamless productivity
+- 🧠 **Learning** – Advanced C++ UI frameworks, data structures, and system design patterns
+
 ---
 
-## Technical Skills
+## 🛠️ Technical Skills
 
 **Languages**  
 Python • Java • C++ • JavaScript • Lua • CSS • HTML
 
 **Tools & Frameworks**  
-Git • Linux • JavaFX • Tinker • File I/O • API Integration
+Git • Linux • Qt • JavaFX • Tkinter • File I/O • API Integration
 
 ---
 
@@ -28,6 +29,8 @@ Git • Linux • JavaFX • Tinker • File I/O • API Integration
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="40" alt="C++" />
   <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="JavaScript" />
+  <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/lua/lua-original.svg" height="40" alt="Lua" />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="CSS3" />
@@ -35,4 +38,14 @@ Git • Linux • JavaFX • Tinker • File I/O • API Integration
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="Git" />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="40" alt="Linux" />
+</div>
+
+---
+
+<div align="center">
+  
+🎓 **Computer Science Student** – Software Engineering Concentration
+
+📫 Feel free to reach out for collaboration or just to connect!
+
 </div>
