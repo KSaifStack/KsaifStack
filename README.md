@@ -1,5 +1,5 @@
 <h1>Hey, I'm Kareem!</h1>
-<p>I'm a college student who enjoys making applications and projects to help support students.</p>
+<p>I'm a college student who enjoys making desktop applications and websites to help support students.</p>
 <p>I really enjoy hiking, going to the gym, reading, and messing around with old computer parts.</p>
 <p>Right now I'm currently learning about advanced data structures, and using C++ with Qt to build UIs.</p>
 <hr>
