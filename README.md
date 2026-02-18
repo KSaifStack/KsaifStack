@@ -1,16 +1,14 @@
-# Hi there, I'm Kareem Saif
+<h1>Hey, I'm Kareem!</h1>
+<p>I'm a college student who enjoys making applications and projects to help support students.</p>
+<p>I really enjoy hiking, going to the gym, reading, and messing around with old computer parts.</p>
+<hr>
+<h2>Projects I'm Currently Working On</h2>
+<ul>
+<li><strong>DockTask</strong> - Desktop task manager with millisecond-accurate deadlines and countdowns.</li>
+<li><strong>Flowstate</strong> - AI-powered desktop project assistant that helps developers plan, track, and manage projects.</li>
+</ul>
 
-Full-stack developer who enjoys building applications and solving challenging problems.
-
----
-
-## What I'm Working On
-
-- **C++ / Qt POS System** – Building a modern Point-of-Sale register application
-- **DockTask** – Dynamic task management platform for seamless productivity
-- **Learning** – Advanced C++ UI frameworks, data structures, and system design patterns
-
----
+<hr> 
 
 <div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="Python" />
@@ -28,4 +26,4 @@ Full-stack developer who enjoys building applications and solving challenging pr
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="Git" />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="40" alt="Linux" />
-</div>
+</div> 
