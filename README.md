@@ -1,4 +1,4 @@
-<h1>Hey, I'm Kareem!</h1>
+<h1>Hey, I'm Kareem!</h1> 
 
 <p>I'm a college student who enjoys making desktop applications and websites to help support students.</p>
 <p>I really enjoy hiking, going to the gym, reading, and messing around with old computer parts.</p>
@@ -38,4 +38,8 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="40" alt="Linux" title="Linux" />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/powershell/powershell-original.svg" height="40" alt="PowerShell" title="PowerShell" />
+</div>
+<br>
+<div align = "left"> 
+<img src ="https://komarev.com/ghpvc/?username=KsaifStack" />
 </div>
