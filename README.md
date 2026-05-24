@@ -2,7 +2,7 @@
 
 <p>I'm a college student who enjoys making desktop applications and websites to help support students.</p>
 <p>I really enjoy hiking, going to the gym, reading, and messing around with old computer parts.</p>
-<p>Right now, I'm working on improving Searchtern. Check it out: <a href="searchtern.ksaif.dev">SearchTern</a>  </p>
+<p>Right now, I'm working on improving <a href="searchtern.ksaif.dev">SearchTern</a>.</p>
 <hr>
 
 <div align="center">
