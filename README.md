@@ -2,7 +2,7 @@
 
 <p>I'm a college student who enjoys making desktop applications and websites to help support students.</p>
 <p>I really enjoy hiking, going to the gym, reading, and messing around with old computer parts.</p>
-<p>Right now, I'm working on building my own portfolio! </p>
+<p>Right now, I'm working on building my own portfolio website! </p>
 <hr>
 
 <div align="center">
