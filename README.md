@@ -44,3 +44,6 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vercel/vercel-original.svg" height="40" alt="Vercel" title="Vercel" />
 </div>
+<div align = "left"> 
+<img src ="https://komarev.com/ghpvc/?username=KsaifStack" />
+</div>
